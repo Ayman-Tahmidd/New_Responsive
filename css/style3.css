@@ -41,3 +41,11 @@
         }
     }
 }
+
+.nav-mobile {
+
+    transform: translateX(-150%);
+
+    transition: transform .5s ease;
+
+}
